@@ -53,3 +53,5 @@ testCached <- makeCacheMatrix(test)
 
 testInv <- cacheSolve(testCached)
 testInv <- cacheSolve(testCached)
+testInv <- cacheSolve(testCached)
+testInv <- cacheSolve(testCached)
