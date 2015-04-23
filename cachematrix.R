@@ -1,5 +1,3 @@
-# Acknowledgement: I referred to Zhihao Ding's blog for some parts of this assignment
-
 # this function works like a class, it creates a list
 # that contains 4 member functions: set, get, setInv
 # and getInv. it uses <<- assignment operator so that
